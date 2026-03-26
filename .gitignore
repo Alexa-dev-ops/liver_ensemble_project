@@ -9,8 +9,8 @@ env/
 
 # Output folders and large data files
 outputs/
-data/
-*.csv
+# data/
+# *.csv
 
 # Saved models and numpy arrays
 *.pkl
