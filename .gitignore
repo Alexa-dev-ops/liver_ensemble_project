@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Output folders and large data files
+outputs/
+data/
+*.csv
+
+# Saved models and numpy arrays
+*.pkl
+*.npy
+
+# OS generated files
+.DS_Store
+Thumbs.db
